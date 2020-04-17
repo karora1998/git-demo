@@ -6,3 +6,6 @@ This is the first file in this repo.
 
 Hi, my name is Kushagra!
 This is my first repo.
+
+## Website Contents
+1. index.html
